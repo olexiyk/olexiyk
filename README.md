@@ -2,8 +2,8 @@
 
 [![mail](https://img.shields.io/badge/gmail-c14438?style=flat-square&message=gmail&logo=Gmail&logoColor=white&link=mailto:olexiy.kyrychenko@gmail.com)](mailto:olexiy.kyrychenko@gmail.com)
 [![Linkedln](https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olexiy-kyrychenko/)
-[![LeetCode](https://img.shields.io/static/v1?style=flat-square&message=leetcode&color=222222&logo=LeetCode&logoColor=FFA116&label=)](https://leetcode.com/olexiy-kyrychenko/)
-<!--- [![CV](https://img.shields.io/static/v1?style=flat-square&message=cv&color=50AFCE&logo=Canva&logoColor=white&label=)]() -->
+[![CV](https://img.shields.io/static/v1?style=flat-square&message=cv&color=50AFCE&logo=Canva&logoColor=white&label=)](https://www.canva.com/design/DAFw80MQBQQ/Z26O2x-Ckk63oyO1rORdwg/view?utm_content=DAFw80MQBQQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[![LeetCode](https://img.shields.io/static/v1?style=flat-square&message=leetcode&color=222222&logo=LeetCode&logoColor=FFA116&label=)](https://leetcode.com/olexiy-kyrychenko/) 
 
 🚀 Seasoned Technical Leader | Web Expert | Results-Driven Professional
 
